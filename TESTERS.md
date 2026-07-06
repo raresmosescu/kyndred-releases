@@ -5,14 +5,15 @@ she floats over your apps, you talk to her, she talks back and remembers you.
 
 ## Install (2 minutes)
 
-1. **You need a Kyndred account first** — Rares will set yours up and tell you
-   which email it's under. (There's no signup inside the app.)
+1. **Use your existing Kyndred account** — the same email you use on
+   getkyndred.com. (There's no signup inside the app; if you don't have an
+   account yet, ask Rares to set you up first.)
 2. Download **Kyndred_x64-setup.exe** from the link Rares sent you.
 3. Run it. Windows will show a blue **"Windows protected your PC"** screen the
    first time (we're a new unsigned app — a certificate is in progress):
    click **More info → Run anyway**. The install needs no admin rights.
-4. Kyndred starts. Enter your account email → check your inbox for an
-   **8-digit code** → type it in. You stay signed in after that.
+4. Kyndred starts. Enter your account email → check your inbox for a
+   **one-time code** → type it in. You stay signed in after that.
 
 ## Using her
 
